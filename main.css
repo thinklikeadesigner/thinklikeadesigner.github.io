@@ -1,0 +1,43 @@
+.body {
+    max-width: 100%;
+    overflow-x: hidden;
+    padding: 0;
+    margin: 0;
+}
+
+.github {
+    background-color: grey;
+    height: 44px;
+    width: 100vw;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.page {
+    justify-content: center;
+    background-color: red;
+    display: flex;
+    align-items: center;
+}
+
+.go{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
